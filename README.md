@@ -1,3 +1,2 @@
 # Cart-Redux-ReactJS
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-laahpq)
+https://login-1670c.firebaseapp.com/?373420
